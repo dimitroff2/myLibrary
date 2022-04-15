@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "email": "me@me.com",
+      "firstname": "Brandi",
+      "lastname": "Dimitroff"
+    }
+  ],
+  "books": [
+    {
+      "id": 2,
+      "title": "Sabriel",
+      "author": "Garth Nix",
+      "genre": "Fantasy",
+      "signed": false,
+      "read": true,
+      "owned": true
+    },
+    {
+      "id": 3,
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "signed": false,
+      "read": true,
+      "owned": true
+    },
+    {
+      "id": 4,
+      "title": "The Last Stargazers: The Enduring Story of Astronomy's Vanishing Explorers",
+      "author": "Emily M. Levesque",
+      "genre": "Non-Fiction",
+      "signed": false,
+      "read": true,
+      "owned": true
+    },
+    {
+      "id": 5,
+      "title": "The Scorpio Races",
+      "author": "Maggie Stiefvater",
+      "genre": "Fantasy",
+      "signed": false,
+      "read": true,
+      "owned": true
+    },
+    {
+      "id": 6,
+      "title": "Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasy",
+      "signed": true,
+      "read": true,
+      "owned": true
+    },
+    {
+      "id": 7,
+      "title": "Sleeper and the Spindel",
+      "author": "Neil Gaiman",
+      "genre": "Graphic Novel",
+      "signed": true,
+      "read": true,
+      "owned": true
+    },
+    {
+      "id": 8,
+      "title": "Monster Blood Collection",
+      "author": "R.L. Stine",
+      "genre": "Fantasy",
+      "signed": true,
+      "read": true,
+      "owned": true
+    },
+    {
+      "id": 9,
+      "title": "The Rise of Wolf 8: Witness the Triumph of Yellowstone's Underdog",
+      "author": "Rick McIntyre",
+      "genre": "Non-Fiction",
+      "signed": false,
+      "read": false,
+      "owned": true
+    },
+    {
+      "id": 10,
+      "title": "The Tropic of Serpents: A Memoir by Lady Trent",
+      "author": "Marie Brennan",
+      "genre": "Fantasy",
+      "signed": false,
+      "read": false,
+      "owned": true
+    },
+    {
+      "id": 11,
+      "title": "Red Rising",
+      "author": "Pierce Brown",
+      "genre": "Sci Fi",
+      "signed": false,
+      "read": false,
+      "owned": true
+    },
+    {
+      "id": 12,
+      "title": "Mistborn",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "signed": false,
+      "read": true,
+      "owned": true
+    },
+    {
+      "id": 13,
+      "title": "Abarat",
+      "author": "Clive Barker",
+      "genre": "Fantasy",
+      "signed": false,
+      "read": true,
+      "owned": true
+    },
+    {
+      "title": "The Well of Ascension",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "signed": false,
+      "read": true,
+      "owned": true,
+      "id": 14
+    },
+    {
+      "title": "Empire of the Vampire",
+      "author": "Jay Kristoff",
+      "genre": "fantasy",
+      "signed": false,
+      "read": false,
+      "owned": false,
+      "id": 15
+    },
+    {
+      "title": "This Is How You Loose the Time War",
+      "author": "Amal El-Mohtar",
+      "genre": "fantasy",
+      "signed": false,
+      "read": false,
+      "owned": false,
+      "id": 16
+    },
+    {
+      "title": "The Radium Girls",
+      "author": "Kate Moore",
+      "genre": "Non-fiction",
+      "signed": false,
+      "read": false,
+      "owned": false,
+      "id": 17
+    },
+    {
+      "id": 18,
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "genre": "fantasy",
+      "signed": false,
+      "read": false,
+      "owned": false
+    },
+    {
+      "title": "Ninth House",
+      "author": "Leigh Bardugo",
+      "genre": "fiction",
+      "signed": false,
+      "read": false,
+      "owned": false,
+      "id": 19
+    },
+    {
+      "title": "The Tempered Steel of Antiquity Grey",
+      "author": "Shawn Speakman",
+      "genre": "SciFi",
+      "signed": true,
+      "read": true,
+      "owned": true,
+      "id": 20
+    },
+    {
+      "title": "Abarat",
+      "author": "CLiver barker",
+      "genre": "fantasy",
+      "signed": false,
+      "read": true,
+      "owned": true,
+      "id": 21
+    }
+  ]
+}
